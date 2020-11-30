@@ -29,6 +29,6 @@
     "merge-jsons-webpack-plugin": "1.0.21",
     "simple-progress-webpack-plugin": "1.1.2",
     "webpack-bundle-analyzer": "3.9.0",
-    "webpack-notifier": "1.8.0"
+    "webpack-notifier": "1.11.0"
   }
 }
