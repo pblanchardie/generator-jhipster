@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@angular/common": "19.2.3",
+    "@angular/common": "19.2.5",
     "@fortawesome/angular-fontawesome": "1.0.0",
     "@fortawesome/fontawesome-svg-core": "6.7.2",
     "@fortawesome/free-solid-svg-icons": "6.7.2",
@@ -21,10 +21,10 @@
   "devDependencies": {
     "@angular-architects/module-federation": "19.0.3",
     "@angular-architects/module-federation-runtime": "19.0.3",
-    "@angular-builders/custom-esbuild": "19.0.0",
-    "@angular-builders/custom-webpack": "19.0.0",
-    "@angular-builders/jest": "19.0.0",
-    "@angular/cli": "19.2.4",
+    "@angular-builders/custom-esbuild": "19.1.0",
+    "@angular-builders/custom-webpack": "19.0.1",
+    "@angular-builders/jest": "19.0.1",
+    "@angular/cli": "19.2.6",
     "@eslint/js": "9.23.0",
     "@types/jest": "29.5.14",
     "@types/node": "20.11.25",
@@ -50,7 +50,7 @@
     "postcss-rtlcss": "5.6.0",
     "rimraf": "5.0.8",
     "ts-jest": "29.2.6",
-    "typescript": "5.8.2",
+    "typescript": "5.8.3",
     "typescript-eslint": "8.27.0",
     "webpack": "5.98.0",
     "webpack-bundle-analyzer": "4.10.2",
